@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv310/
+venv/
+env/
+.venv/
+
+# Large datasets & image folders
+dataset/
+leafs/
+
+# Keras / Deep Learning model weights (exceeds GitHub limits)
+*.keras
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter Notebook checkpoints & cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
